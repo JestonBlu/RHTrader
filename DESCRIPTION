@@ -1,0 +1,20 @@
+Package: RHTrader
+Type: Package
+Title: TBD
+Version: 0.1
+Date: 2021-01-08
+Author: Joseph Blubaugh
+Maintainer: Joseph Blubaugh <jestonblu@gmail.com>
+Description: TBD
+Imports:
+  RobinHood,
+  jsonlite,
+  lubridate,
+  profvis,
+  magrittr,
+  dplyr,
+  httr,
+  uuid
+License: GPL-3
+URL: https://github.com/JestonBlu/RHTrader
+RoxygenNote: 7.1.1
